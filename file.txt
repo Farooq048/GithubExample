@@ -1,0 +1,15 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 3EF9-E77B
+
+ Directory of C:\Users\prathaminfo\Desktop\Git Example
+
+08/10/2021  16:01    <DIR>          .
+08/10/2021  16:01    <DIR>          ..
+08/10/2021  16:01                 0 file.txt
+06/10/2021  19:49               403 index.html
+08/10/2021  15:58                13 index2.html
+06/10/2021  19:49                17 test.txt
+07/10/2021  20:08               450 test2.txt
+07/10/2021  20:08               497 test3.txt
+               6 File(s)          1,380 bytes
+               2 Dir(s)  298,076,069,888 bytes free
